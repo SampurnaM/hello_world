@@ -1,5 +1,3 @@
 # hello_world
-Just beginner stuff.
-Really.
-Look away.
-Now.
+Back to the basics: Set of Jupyter Notebooks revising Python basics, Python for data science, R basics, etc
+
